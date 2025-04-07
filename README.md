@@ -1,4 +1,4 @@
-# capstone-project
+# Real Estate App
 **Smart Property Explorer** is your all-in-one real estate platform designed to help you make smarter property decisions. Whether you're a buyer, investor, or just exploring, our tools provide you with actionable insights.
 
 #### **Key Features**:
